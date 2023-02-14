@@ -1,2 +1,15 @@
-# bobble-bonanza-issues
-Issue tracker for https://bobblebonanza.io
+# Bobble Bonanza Issue Tracker
+
+Issue Tracker for https://bobblebonanza.io
+
+Use https://github.com/Silverware-Games/bobble-bonanza-issues/issues to submit an idea or a bug report. You should be signed into GitHub.
+
+Rules:
+
+* You must follow GitHub Community Guidelines.
+* The bug reports/ideas should be related to Bobble Bonanza only.
+* It's up to us to decide whether (and when) accept the idea/bug report or not.
+* All vulnerabilities should be reported privately.
+* You must not use the Issue Tracker if you do not agree to any of the terms.
+
+Discord: https://discord.silverwaregames.com (#bobble-bonanza-io)
